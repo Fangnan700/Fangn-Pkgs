@@ -1,2 +1,10 @@
 # Fangn-Pkgs
-Fangn's nixos package collection
+
+Fangn's nixos package collection.
+
+
+
+## Added packages
+
+- qq
+- bilibili-linux
