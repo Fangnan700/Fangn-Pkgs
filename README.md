@@ -8,3 +8,4 @@ Fangn's nixos package collection.
 
 - qq
 - bilibili-linux
+- typora-unlock
