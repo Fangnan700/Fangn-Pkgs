@@ -37,7 +37,7 @@ stdenv.mkDerivation rec {
     ln -s $out/share/Apifox/Apifox.AppImage $out/bin/Apifox
     chmod a+x $out/share/Apifox/Apifox.AppImage
     
-    sed -i "s|Exec=.*|Exec=${appimage-run}/bin/appimage-run $out/bin/apifox|" $out/share/applications/*.desktop
+    sed -i "s|Exec=.*|Exec=${appimage-run}/bin/appimage-run $out/bin/Apifox|" $out/share/applications/*.desktop
     sed -i "s|Icon=.*|Icon=$out/share/Apifox/logo.png|" $out/share/applications/*.desktop
 
     makeWrapper ${appimage-run}/bin/appimage-run $out/bin/apifox \
