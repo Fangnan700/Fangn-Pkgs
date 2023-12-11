@@ -10,3 +10,5 @@ Fangn's nixos package collection.
 - bilibili-linux
 - typora-unlock
 - apifox
+- clash-verge
+- feishu
