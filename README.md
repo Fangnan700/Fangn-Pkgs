@@ -6,9 +6,10 @@ Fangn's nixos package collection.
 
 ## Added packages
 
-- qq
-- bilibili-linux
-- typora-unlock
 - apifox
+- bilibili-linux
 - clash-verge
 - feishu
+- qq
+- typora-unlock
+- wine-wechat-x86
