@@ -24,9 +24,9 @@
 
 let
   pname = "qq";
-  version = "3.2.5-20670";
-  urlhash = "172de072";
-  amd64_hash = "sha256-a3ppwOMtx7ZUEUarxh0s1DT31VSca1Ezmq/kNlC1xCY=";
+  version = "3.2.5-20811";
+  urlhash = "d0154345";
+  amd64_hash = "sha256-nHdKvdVLa+P6ybEehjwUrKlcUluXpkTi26m8Q1TXHHQ=";
   srcs = {
     x86_64-linux = fetchurl {
       url = "https://dldir1.qq.com/qqfile/qq/QQNT/${urlhash}/linuxqq_${version}_amd64.deb";
