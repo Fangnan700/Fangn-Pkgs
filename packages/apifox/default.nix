@@ -13,7 +13,7 @@ stdenv.mkDerivation rec {
   version = "";
   src = fetchurl {
     url = "https://cdn.apifox.com/download/Apifox-linux-latest.zip";
-    sha256 = "sha256-H0I28I3PLww86LNhQA2jOehl9bfqIOsRIh0hPWmb/ak=";
+    sha256 = "sha256-uVvlwL+OTMoXt+s054Db7cqDM7kJvJOkdleQ50icfIc=";
   };
   
   # Work around the "unpacker appears to have produced no directories"
