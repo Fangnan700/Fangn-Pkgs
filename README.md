@@ -12,4 +12,5 @@ Fangn's nixos package collection.
 - feishu
 - qq
 - typora-unlock
+- wemeet
 - wine-wechat-x86
